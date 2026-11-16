@@ -3,6 +3,7 @@
 # Marco Maigua
 
 **Software Engineer · Freelance & Consulting**
+
 *Auth0 identity, AI agents and blockchain — from Montreal, in English, French and Spanish.*
 
 <a href="https://nemesis1346.github.io/self-promotion/">
