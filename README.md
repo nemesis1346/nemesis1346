@@ -6,7 +6,7 @@
 
 *Auth0 identity, AI agents and blockchain — from Montreal, in English, French and Spanish.*
 
-<a href="https://nemesis1346.github.io/self-promotion/">
+<a href="https://marcomaigua.logicielsmm.com/">
   <img src="https://img.shields.io/badge/Services_%26_Prices-0F6B5C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 <a href="https://www.linkedin.com/in/marco-maigua-66822584/">
@@ -45,7 +45,7 @@ I have worked in startups, large enterprises and consulting:
 | ⛓️ **Blockchain development** | Solidity smart contracts (ERC-20, ERC-721), Ethereum & Solana integrations, tests with Hardhat/Truffle | from $3,000 CAD |
 | 🧩 **Full-stack apps** | React, Next.js, React Native, Node.js and Python apps, REST APIs, AWS and Docker deployment | from $6,000 CAD |
 
-➡️ Full details, packages and contact form: **[nemesis1346.github.io/self-promotion](https://nemesis1346.github.io/self-promotion/)** — the first call is free.
+➡️ Full details, packages and contact form: **[marcomaigua.logicielsmm.com](https://marcomaigua.logicielsmm.com/)** — the first call is free.
 
 ---
 
